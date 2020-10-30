@@ -1,0 +1,9 @@
+#!/bin/bash
+#
+# comments
+clear
+ll
+echo "What is your name"
+read name
+echo "so nice to meet you $name"
+#
